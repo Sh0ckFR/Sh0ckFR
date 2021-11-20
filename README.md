@@ -8,4 +8,4 @@ I'm Sh0ckFR, welcome on my GitHub.
 
 📫 How to reach me: on Twitter @Sh0ckFR or via mail github[/at/]cyber-fr[-dot-]com (Do not contact me for illegal things please)
 
-By the way, I accept beers if you like my work, just dm me.
+By the way, I accept beers if you like my work ;)
