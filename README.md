@@ -2,7 +2,7 @@
 
 I'm Sh0ckFR, welcome on my GitHub.
 
-🔭 I’m currently working on Cobalt Strike payloads and related stuff
+🔭 I’m currently working on C2 payloads and related stuff.
 
 🌱 I’m currently learning how to evade AV/EDR solutions and the Active Directory mysteries
 
