@@ -10,6 +10,6 @@ I'm Sh0ckFR, welcome on my GitHub.
 
 Thank you to my sponsors:
 
-@michel-morin for 100$ each month (I really appreciate, do not hesitate to contact me because I want to know who you are, probably a good guy IRL :D)
+@michel-morin for 100$ (I really appreciate, do not hesitate to contact me because I want to know who you are, probably a good guy IRL :D)
 
 ![Alt Text](https://raw.githubusercontent.com/Sh0ckFR/Sh0ckFR/main/hackerman.gif)
